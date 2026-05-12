@@ -5,7 +5,7 @@ permalink: /about/
 
 ## About Me
 
-Arafath Ahmed Marshed is a recent graduate of the Master of Science program in Physics at Shahjalal University of Science and Technology (SUST), Bangladesh. His academic training and research experience are centered on experimental optics, with a particular emphasis on nonlinear light–matter interactions, precision optical measurements, and photonic techniques for materials characterization.
+**Arafath Ahmed Marshed** is a recent graduate of the Master of Science program in Physics at Shahjalal University of Science and Technology (SUST), Bangladesh. His academic training and research experience are centered on experimental optics, with a particular emphasis on nonlinear light–matter interactions, precision optical measurements, and photonic techniques for materials characterization.
 
 ## Academic Background
 
