@@ -25,13 +25,13 @@ author:
   # Biographic information
   avatar           : "picture_mine.png"
   name             : "Arafath Ahmed Marshed"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/her"  
+  bio              : "Graduate student interested in physics and academic research."
   location         : "Sylhet, Bangladesh"
   employer         : "Shahjalal University of Science and Technology."
   uri              : # URL
   email            : "marshed.phy@gmail.com" 
-  email            : "amarshed@iu.edu"
+  email_alt        : "amarshed@iu.edu"
 
   # Academic websites
   academia         : # URL
