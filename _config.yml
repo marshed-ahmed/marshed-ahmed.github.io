@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture mine.png"
+  avatar           : "picture_mine.png"
   name             : "Arafath Ahmed Marshed"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Sylhet, Bangladesh"
-  employer         : "Shahjalal University of Science and Technolgy"
+  employer         : "Shahjalal University of Science and Technology."
   uri              : # URL
   email            : "marshed.phy@gmail.com" 
   email            : "amarshed@iu.edu"
