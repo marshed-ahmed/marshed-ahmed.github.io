@@ -22,17 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "picture_mine.png"
-  name             : "Arafath Ahmed Marshed"
-  pronouns         : "he/her"  
-  bio              : "Graduate student interested in physics and academic research."
-  location         : "Sylhet, Bangladesh"
-  employer         : "Shahjalal University of Science and Technology."
-  uri              : ""
-  email            : "marshed.phy@gmail.com" 
-  email_alt        : "amarshed@iu.edu"
-
+  avatar: "picture-mine.png"
+  name: "Arafath Ahmed Marshed"
+  pronouns: ""
+  bio: "Graduate student interested in physics and academic research."
+  location: "Sylhet, Bangladesh"
+  employer: "Shahjalal University of Science and Technology"
+  uri: ""
+  email: "marshed.phy@gmail.com"
+  email_alt: "amarshed@iu.edu"
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
