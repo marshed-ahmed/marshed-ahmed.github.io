@@ -23,26 +23,27 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "picture mine.png"
+  name             : "Arafath Ahmed Marshed"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Sylhet, Bangladesh"
+  employer         : "Shahjalal University of Science and Technolgy"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "marshed.phy@gmail.com" 
+  email            : "amarshed@iu.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #url
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #URL
+  researchgate     : "https://www.researchgate.net/profile/Arafath-Marshed
   scopus           : # URL
   zotero           : # URL
 
@@ -51,20 +52,20 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #URL
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : marshed.ahmed.19
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : __marshed
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -84,12 +85,29 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  # books:
+  #   title: 'Books'
+  # manuscripts:
+  #   title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+        items:
+        - title: "Z-Scan Profiling of Photosensitive Cholecalciferol in Pharmaceutical Formulations Manufactured in Clear-Glass Ampoules"
+        authors: "Arafath Ahmed Marshed, Md Enamul Hoque, Md Faizul Amin, Maisha Tasnia Mim, and Sharif Md Sharafuddin"
+        conference: "International Conference on Physics 2026"
+        location: "Department of Physics, University of Dhaka, Bangladesh"
+        date: "April 2026"
+        organized by: "Bangladesh Physical Society"
+        presentation: "Oral presentation"
+        
+        
+       - title: "Z-Scan Profiling of Sunlight-Exposed Cholecalciferol in Pharmaceutical Formulations"
+       authors: "Arafath Ahmed Marshed, Sharif Md Sharafuddin, and Md Enamul Hoque"
+       conference: "International Conference on Advances in Physics (ICAP-2025)"
+       location: "Shahjalal University of Science and Technology, Bangladesh"
+       date: "December 2025"
+       presentation: "Oral presentation"
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
