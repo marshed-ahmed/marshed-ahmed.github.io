@@ -93,20 +93,20 @@ publication_category:
     title: 'Conference Papers'
         items:
         - title: "Z-Scan Profiling of Photosensitive Cholecalciferol in Pharmaceutical Formulations Manufactured in Clear-Glass Ampoules"
-        authors: "Arafath Ahmed Marshed, Md Enamul Hoque, Md Faizul Amin, Maisha Tasnia Mim, and Sharif Md Sharafuddin"
-        conference: "International Conference on Physics 2026"
-        location: "Department of Physics, University of Dhaka, Bangladesh"
-        date: "April 2026"
-        organized by: "Bangladesh Physical Society"
-        presentation: "Oral presentation"
+          authors: "Arafath Ahmed Marshed, Md Enamul Hoque, Md Faizul Amin, Maisha Tasnia Mim, and Sharif Md Sharafuddin"
+          conference: "International Conference on Physics 2026"
+          location: "Department of Physics, University of Dhaka, Bangladesh"
+          date: "April 2026"
+          organized by: "Bangladesh Physical Society"
+          presentation: "Oral presentation"
         
         
        - title: "Z-Scan Profiling of Sunlight-Exposed Cholecalciferol in Pharmaceutical Formulations"
-       authors: "Arafath Ahmed Marshed, Sharif Md Sharafuddin, and Md Enamul Hoque"
-       conference: "International Conference on Advances in Physics (ICAP-2025)"
-       location: "Shahjalal University of Science and Technology, Bangladesh"
-       date: "December 2025"
-       presentation: "Oral presentation"
+         authors: "Arafath Ahmed Marshed, Sharif Md Sharafuddin, and Md Enamul Hoque"
+         conference: "International Conference on Advances in Physics (ICAP-2025)"
+         location: "Shahjalal University of Science and Technology, Bangladesh"
+         date: "December 2025"
+         presentation: "Oral presentation"
   
 
 # Site Settings
